@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: olist
+    schema: public   # atau schema tempat tabel raw kamu
+    tables:
+      - name: olist_orders
+      - name: olist_order_items
+      - name: olist_order_payments
+      - name: olist_products
+      - name: olist_customers
+      - name: olist_order_reviews
