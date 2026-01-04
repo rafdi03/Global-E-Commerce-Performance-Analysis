@@ -213,6 +213,8 @@ Data Analytics & Analytics Engineering Enthusiast
 
 This project demonstrates:
 
+<img width="1152" height="650" alt="Screenshot 2026-01-04 143109" src="https://github.com/user-attachments/assets/7a0152db-584f-4de1-a979-207492340eec" />
+
 * Analytics Engineering best practices
 * Clean separation of transformation layers
 * BI-ready data modeling
